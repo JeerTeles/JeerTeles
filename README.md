@@ -1,5 +1,6 @@
 
 ## Olá eu sou a Jaderson Teles, estudante de programação e tecnologia!
+<img width="100%" bottom="50%" src=""/>
 <div align="center">
   <a href="https://github.com/JeerTeles">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaballerini&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
